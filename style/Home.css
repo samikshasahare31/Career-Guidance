@@ -1,0 +1,47 @@
+.container {
+    position: relative;
+    color: azure;
+
+}
+
+.center {
+    color: azure;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 18px;
+}
+
+img {
+    width: 100%;
+    height: auto;
+    opacity: 0.3;
+}
+
+.titleText {
+    color: azure;
+}
+
+h1 {
+    text-shadow: 2px 2px 3px #5c5e5f;
+    font-size: 50px;
+    color: azure;
+}
+
+.topleft {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+    font-size: 18px;
+}
+
+.StartBtn {
+    width: 100px;
+    height: 50px;
+    font-size: 30px;
+    font-family: cursive;
+    border-radius: 10px;
+    background-color: #ebeae9;
+    margin-top: 240px;
+}
